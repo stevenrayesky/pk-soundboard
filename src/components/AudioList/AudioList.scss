@@ -1,0 +1,32 @@
+.AudioList {
+  display: grid;
+  flex-wrap: wrap;
+  grid-template-columns: 1fr 3fr;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.author {
+  display: flex;
+  flex-direction: column;
+  grid-column: 1;
+  grid-row: 1 / auto;
+  align-items: center;
+  padding: 10px;
+
+  img {
+    width: 100px;
+  }
+
+  h2 {
+    color: #FFF;
+    margin: 10px 0px 0px;
+  }
+}
+
+.bites {
+  padding: 10px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 105px);
+  grid-gap: 10px;
+}

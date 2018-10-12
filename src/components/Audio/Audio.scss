@@ -1,0 +1,12 @@
+.Audio {
+  background-color: #2e3331;
+  height: 75px;
+  width: 75px;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &:hover {
+    cursor: pointer;
+  }
+}

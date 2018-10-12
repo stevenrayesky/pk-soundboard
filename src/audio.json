@@ -1,0 +1,34 @@
+[
+  {
+    "author": "dale",
+    "img": "dale_a.png",
+    "tracks": [
+      {
+        "title": "Keep it in the zone-ehhh",
+        "src": "dale-keep-it-in-the-zone.mp3"
+      },
+      {
+        "title": "Big D",
+        "src": "dale-big-d.mp3"
+      },
+      {
+        "title": "Get in there Jonesy",
+        "src": "dale-get-in-there-jonesy.mp3"
+      },
+      {
+        "title": "Double Penne",
+        "src": "double-penne.mp3"
+      }
+    ]
+  },
+  {
+    "author": "slim",
+    "img": "slim.png",
+    "tracks": [
+      {
+        "title": "Tonyight",
+        "src": "slim-tonyight.mp3"
+      }
+    ]
+  }
+]
