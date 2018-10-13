@@ -18,6 +18,10 @@
       {
         "title": "Double Penne",
         "src": "double-penne.mp3"
+      },
+      {
+        "title": "God in Heaven",
+        "src": "dale-god-in-heaven.mp3"
       }
     ]
   },
@@ -28,6 +32,34 @@
       {
         "title": "Tonyight",
         "src": "slim-tonyight.mp3"
+      },
+      {
+        "title": "Black Label",
+        "src": "slim-black-label.mp3"
+      }
+    ]
+  },
+  {
+    "author": "jonesy",
+    "img": "jonesy.png",
+    "tracks": [
+      {
+        "title": "Cad Test",
+        "src": "jonesy-cad-test.mp3"
+      },
+      {
+        "title": "Pain",
+        "src": "jonesy-pain.mp3"
+      }
+    ]
+  },
+  {
+    "author": "chuck",
+    "img": "chuck.png",
+    "tracks": [
+      {
+        "title": "First Touch",
+        "src": "first-touch-forsman.mp3"
       }
     ]
   }
