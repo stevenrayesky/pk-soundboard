@@ -1,12 +1,22 @@
 .Audio {
   background-color: #2e3331;
-  height: 75px;
-  width: 75px;
-  padding: 15px;
+  height: 50px;
+  width: 50px;
+  padding: 5px;
   display: flex;
   align-items: center;
   justify-content: center;
+  font-size: 10px;
   &:hover {
     cursor: pointer;
+  }
+}
+
+@media all and (min-width: 426px) {
+  .Audio {
+    height: 75px;
+    width: 75px;
+    padding: 15px;
+    font-size: 16px;
   }
 }
