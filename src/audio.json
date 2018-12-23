@@ -62,5 +62,19 @@
         "src": "first-touch-forsman.mp3"
       }
     ]
+  },
+  {
+    "author": "proto",
+    "img": "proto.png",
+    "tracks": [
+      {
+        "title": "Don't Worry Bout It",
+        "src": "proto-dont-worry-bout-it.mp3"
+      },
+      {
+        "title": "Grab A",
+        "src": "proto-grab-a.mp3"
+      }
+    ]
   }
 ]
