@@ -22,6 +22,10 @@
       {
         "title": "God in Heaven",
         "src": "dale-god-in-heaven.mp3"
+      },
+      {
+        "title": "Titaned",
+        "src": "dale-titaned.mp3"
       }
     ]
   },
@@ -36,6 +40,26 @@
       {
         "title": "Black Label",
         "src": "slim-black-label.mp3"
+      },
+      {
+        "title": "Laugh",
+        "src": "slim-laugh.mp3"
+      },
+      {
+        "title": "Press",
+        "src": "slim-press.mp3"
+      },
+      {
+        "title": "Rock Bottom",
+        "src": "slim-rock-bottom.mp3"
+      },
+      {
+        "title": "Wrestlemania 17",
+        "src": "slim-wrestlemania-17.mp3"
+      },
+      {
+        "title": "You Kiddin Me",
+        "src": "slim-you-kiddin-me.mp3"
       }
     ]
   },
@@ -74,6 +98,16 @@
       {
         "title": "Grab A",
         "src": "proto-grab-a.mp3"
+      }
+    ]
+  },
+  {
+    "author": "timothief",
+    "img": "tim.png",
+    "tracks": [
+      {
+        "title": "I Will Bleed You",
+        "src": "tim-i-will-bleed-you.mp3"
       }
     ]
   }
