@@ -26,6 +26,10 @@
       {
         "title": "Titaned",
         "src": "dale-titaned.mp3"
+      },
+      {
+        "title": "Sweet n Low",
+        "src": "dale-sweet-n-low.mp3"
       }
     ]
   },
@@ -60,6 +64,10 @@
       {
         "title": "You Kiddin Me",
         "src": "slim-you-kiddin-me.mp3"
+      },
+      {
+        "title": "Finish My Boi",
+        "src": "slim-finish-my-boi.mp3"
       }
     ]
   },
@@ -108,6 +116,26 @@
       {
         "title": "I Will Bleed You",
         "src": "tim-i-will-bleed-you.mp3"
+      }
+    ]
+  },
+  {
+    "author": "dany",
+    "img": "tim.png",
+    "tracks": [
+      {
+        "title": "That was Incredible",
+        "src": "dany-that-was-incredible.mp3"
+      }
+    ]
+  },
+  {
+    "author": "tom",
+    "img": "tim.png",
+    "tracks": [
+      {
+        "title": "Penis",
+        "src": "tom-peen.mp3"
       }
     ]
   }
