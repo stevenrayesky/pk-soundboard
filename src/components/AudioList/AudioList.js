@@ -3,9 +3,6 @@ import './AudioList.scss';
 import Audio from '../Audio/Audio';
 
 class AudioList extends Component {
-  constructor(props){
-    super(props);
-  }
 
   renderBites(){
     return this.props.list.tracks.map((bite, index) =>
