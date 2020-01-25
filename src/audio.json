@@ -121,17 +121,21 @@
   },
   {
     "author": "dany",
-    "img": "tim.png",
+    "img": "dany.png",
     "tracks": [
       {
         "title": "That was Incredible",
         "src": "dany-that-was-incredible.mp3"
+      },
+      {
+        "title": "It's ya boi",
+        "src": "dany-its-ya-boi.mp3"
       }
     ]
   },
   {
     "author": "tom",
-    "img": "tim.png",
+    "img": "tom.png",
     "tracks": [
       {
         "title": "Penis",
